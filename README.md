@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe), used for learning and integration. All credit for the original work goes to its authors. License: Apache-2.0 (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme>
+>
+> [![Standard CI](https://github.com/ArAryan1314/LitServe/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/LitServe/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 <div align='center'>
 
 <h1>
